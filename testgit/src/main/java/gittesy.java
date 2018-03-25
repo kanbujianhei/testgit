@@ -1,3 +1,5 @@
 public class gittesy {
-    public void ddd(){}
+    public void ddd(){
+        System.out.print("111");
+    }
 }
